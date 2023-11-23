@@ -1,4 +1,5 @@
 # Parallax-Website
 this is my first git repository.
 <br/>
-Author- Aditi Singh
+Author- Aditi Singh (software engineer)
+
